@@ -1,8 +1,7 @@
 global:
-
+  haproxy:
+    version: 10.6.2
   harproxy:
     version: 0.16.2
   etcd:
     version: 9.14.2
-
-
