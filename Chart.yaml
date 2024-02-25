@@ -29,3 +29,6 @@ dependencies:
   - name: haproxy
     version: 0.16.2
     repository: https://charts.bitnami.com/bitnami
+  - name: etcd
+    version: 9.14.1
+    repository: https://charts.bitnami.com/bitnami
