@@ -1,2 +1,5 @@
 harproxy:
   version: 0.16.2
+
+etcd:
+  version: 9.14.2
