@@ -26,6 +26,6 @@ dependencies:
   - name: apache
     version: 10.6.2
     repository: https://charts.bitnami.com/bitnami
-  - name: redis
-    version: 18.16.1
+  - name: haproxy
+    version: 0.16.1
     repository: https://charts.bitnami.com/bitnami
